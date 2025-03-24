@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hey,%20I'm%20Rafał%20🖖&reversal=false&textBg=false&desc=Fullstack%20Developer%20|%20Frontend%20Oriented&fontAlignY=36&fontSize=60)
 
-<!--
-**rafalpawlow/rafalpawlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## 🤓 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Senior Software Engineer at Smartbear
+- 🕵🏼‍♀️ Currently exploring new AI opportunities
+- 📡 Ex-Entrepreneur - https://mediatool.tv/
+- 💡 Passionate about building great apps and problem solving
+- 🏔️ Always looking for a challenge
+
+## 🛠️ Tech Stack
+<div align="center">
+
+![img](https://skillicons.dev/icons?i=js,ts,react,redux,vue,cypress,nodejs,nextjs,express,graphql,jest,docker,postgresql,mongo,githubactions,git&perline=8)
+
+### Styling
+![img](https://skillicons.dev/icons?i=css,sass,less,styledcomponents,emotion,tailwind,materialui)
+
+</div>
